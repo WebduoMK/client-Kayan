@@ -1,0 +1,18 @@
+.portoflio {
+  margin: 20px;
+}
+@media only screen and (max-width: 600px) {
+  .portoflio {
+    margin: 0px;
+  }
+  .css-13xfq8m-MuiTabPanel-root {
+    padding: 0px !important;
+  }
+}
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
